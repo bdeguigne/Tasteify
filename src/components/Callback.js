@@ -29,6 +29,7 @@ function Callback(props) {
     useEffect(() => {
         if (!props.user) {
             var url = parseURL(window.location.href);
+            // alert(window.location.href);
             if (url.params.code) {
                 props.getAccessToken(url.params.code);
             }
@@ -37,10 +38,9 @@ function Callback(props) {
 
     if (props.isLogged) {
         return <Redirect to="/home" />
+    } else {
+        return <Redirect to="/login" />
     }
-    return (
-        <div></div>
-    );
 }
 
 function mapStateToProps(state) {

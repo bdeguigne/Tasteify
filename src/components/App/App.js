@@ -3,7 +3,6 @@ import { connect } from "react-redux";
 import {
   Switch,
   Route,
-  Redirect
 } from "react-router-dom";
 
 import { authenticateUser } from "../../redux/actions/userActions";
@@ -23,14 +22,8 @@ function App(props) {
 
   return (
     <Switch>
-      <Route exact path="/"
-        render={() => {
-          return (
-            props.isLogged ?
-              <Redirect to="/home" /> :
-              <Redirect to="/login" />
-          )
-        }}>
+      <Route exact path="/">
+        <Callback />
       </Route>
       <PrivateRoute path="/home" component={HomePage} />
       <Route path="/login">
