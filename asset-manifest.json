@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Tasteify/static/css/main.549812ac.chunk.css",
-    "main.js": "/Tasteify/static/js/main.5c1c9f04.chunk.js",
-    "main.js.map": "/Tasteify/static/js/main.5c1c9f04.chunk.js.map",
+    "main.js": "/Tasteify/static/js/main.44580a2a.chunk.js",
+    "main.js.map": "/Tasteify/static/js/main.44580a2a.chunk.js.map",
     "runtime-main.js": "/Tasteify/static/js/runtime-main.53f6acaf.js",
     "runtime-main.js.map": "/Tasteify/static/js/runtime-main.53f6acaf.js.map",
-    "static/js/2.0fecc9da.chunk.js": "/Tasteify/static/js/2.0fecc9da.chunk.js",
-    "static/js/2.0fecc9da.chunk.js.map": "/Tasteify/static/js/2.0fecc9da.chunk.js.map",
+    "static/js/2.39bdd6cf.chunk.js": "/Tasteify/static/js/2.39bdd6cf.chunk.js",
+    "static/js/2.39bdd6cf.chunk.js.map": "/Tasteify/static/js/2.39bdd6cf.chunk.js.map",
     "index.html": "/Tasteify/index.html",
     "static/css/main.549812ac.chunk.css.map": "/Tasteify/static/css/main.549812ac.chunk.css.map",
-    "static/js/2.0fecc9da.chunk.js.LICENSE.txt": "/Tasteify/static/js/2.0fecc9da.chunk.js.LICENSE.txt"
+    "static/js/2.39bdd6cf.chunk.js.LICENSE.txt": "/Tasteify/static/js/2.39bdd6cf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.53f6acaf.js",
-    "static/js/2.0fecc9da.chunk.js",
+    "static/js/2.39bdd6cf.chunk.js",
     "static/css/main.549812ac.chunk.css",
-    "static/js/main.5c1c9f04.chunk.js"
+    "static/js/main.44580a2a.chunk.js"
   ]
 }
