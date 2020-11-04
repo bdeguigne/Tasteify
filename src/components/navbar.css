@@ -1,0 +1,37 @@
+h2{
+    margin: 0px;
+    margin-left: 20px;
+}
+
+.button {
+
+}
+
+h1{
+    margin: 0px;
+    margin-right: 20px;
+    color: #1ed760;
+}
+
+.logo {
+    font-style: italic;
+    font-weight: bold;
+    letter-spacing: -0.04em;
+    font-size: 48px;
+}
+.navbar-container{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    width:100%;
+}
+
+.pipe{
+    border-right: 2px white solid;
+}
+
+.MuiButtonBase-root.MuiButton-root.MuiButton-contained.button.MuiButton-containedPrimary{
+    margin-left: auto;
+}

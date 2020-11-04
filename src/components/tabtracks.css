@@ -1,0 +1,37 @@
+.table-head .MuiTableCell-sizeSmall {
+    padding-bottom: 25px;
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+h2 {
+    margin: 0;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+
+.table-body .MuiTableCell-sizeSmall {
+    padding: 0
+}
+
+.table-body .table-img {
+    width: 1px;
+}
+
+.table-body .MuiTableCell-root {
+    line-height: 0;
+}
+
+.table-body .MuiTableCell-root img {
+    width: 64px;
+    height: 64px;
+}
+
+.table-head th {
+    color: #BFBFBF
+}
+
+.table-body .table-artist {
+    font-style: italic;
+}
